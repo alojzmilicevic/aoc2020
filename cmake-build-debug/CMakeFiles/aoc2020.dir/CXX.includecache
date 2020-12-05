@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/alojz/CLionProjects/aoc2020/day5/day5.cpp
+day5.h
+C:/Users/alojz/CLionProjects/aoc2020/day5/day5.h
+../util.h
+C:/Users/alojz/CLionProjects/aoc2020/util.h
+vector
+-
+iostream
+-
+string
+-
+
+C:/Users/alojz/CLionProjects/aoc2020/day5/day5.h
+vector
+-
+string
+-
+
+C:/Users/alojz/CLionProjects/aoc2020/util.h
+string
+-
+fstream
+-
+sstream
+-
+vector
+-
+iostream
+-
+algorithm
+-
+
