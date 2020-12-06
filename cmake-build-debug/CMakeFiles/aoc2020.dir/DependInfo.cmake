@@ -18,7 +18,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/alojz/CLionProjects/aoc2020/day2/day2.cpp" "C:/Users/alojz/CLionProjects/aoc2020/cmake-build-debug/CMakeFiles/aoc2020.dir/day2/day2.cpp.obj"
   "C:/Users/alojz/CLionProjects/aoc2020/day20/day20.cpp" "C:/Users/alojz/CLionProjects/aoc2020/cmake-build-debug/CMakeFiles/aoc2020.dir/day20/day20.cpp.obj"
   "C:/Users/alojz/CLionProjects/aoc2020/day21/day21.cpp" "C:/Users/alojz/CLionProjects/aoc2020/cmake-build-debug/CMakeFiles/aoc2020.dir/day21/day21.cpp.obj"
-  "C:/Users/alojz/CLionProjects/aoc2020/day22/day21.cpp" "C:/Users/alojz/CLionProjects/aoc2020/cmake-build-debug/CMakeFiles/aoc2020.dir/day22/day21.cpp.obj"
+  "C:/Users/alojz/CLionProjects/aoc2020/day22/day22.cpp" "C:/Users/alojz/CLionProjects/aoc2020/cmake-build-debug/CMakeFiles/aoc2020.dir/day22/day22.cpp.obj"
   "C:/Users/alojz/CLionProjects/aoc2020/day23/day23.cpp" "C:/Users/alojz/CLionProjects/aoc2020/cmake-build-debug/CMakeFiles/aoc2020.dir/day23/day23.cpp.obj"
   "C:/Users/alojz/CLionProjects/aoc2020/day24/day24.cpp" "C:/Users/alojz/CLionProjects/aoc2020/cmake-build-debug/CMakeFiles/aoc2020.dir/day24/day24.cpp.obj"
   "C:/Users/alojz/CLionProjects/aoc2020/day25/day25.cpp" "C:/Users/alojz/CLionProjects/aoc2020/cmake-build-debug/CMakeFiles/aoc2020.dir/day25/day25.cpp.obj"

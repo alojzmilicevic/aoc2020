@@ -3,9 +3,73 @@
 
 CMakeFiles\aoc2020.dir\day1\day1.cpp.obj: ..\day1\day1.cpp
 
+CMakeFiles\aoc2020.dir\day10\day10.cpp.obj: ..\day10\day10.cpp
+CMakeFiles\aoc2020.dir\day10\day10.cpp.obj: ..\day10\day10.h
+CMakeFiles\aoc2020.dir\day10\day10.cpp.obj: ..\util.h
+
+CMakeFiles\aoc2020.dir\day11\day11.cpp.obj: ..\day11\day11.cpp
+CMakeFiles\aoc2020.dir\day11\day11.cpp.obj: ..\day11\day11.h
+CMakeFiles\aoc2020.dir\day11\day11.cpp.obj: ..\util.h
+
+CMakeFiles\aoc2020.dir\day12\day12.cpp.obj: ..\day12\day12.cpp
+CMakeFiles\aoc2020.dir\day12\day12.cpp.obj: ..\day12\day12.h
+CMakeFiles\aoc2020.dir\day12\day12.cpp.obj: ..\util.h
+
+CMakeFiles\aoc2020.dir\day13\day13.cpp.obj: ..\day13\day13.cpp
+CMakeFiles\aoc2020.dir\day13\day13.cpp.obj: ..\day13\day13.h
+CMakeFiles\aoc2020.dir\day13\day13.cpp.obj: ..\util.h
+
+CMakeFiles\aoc2020.dir\day14\day14.cpp.obj: ..\day14\day14.cpp
+CMakeFiles\aoc2020.dir\day14\day14.cpp.obj: ..\day14\day14.h
+CMakeFiles\aoc2020.dir\day14\day14.cpp.obj: ..\util.h
+
+CMakeFiles\aoc2020.dir\day15\day15.cpp.obj: ..\day15\day15.cpp
+CMakeFiles\aoc2020.dir\day15\day15.cpp.obj: ..\day15\day15.h
+CMakeFiles\aoc2020.dir\day15\day15.cpp.obj: ..\util.h
+
+CMakeFiles\aoc2020.dir\day16\day16.cpp.obj: ..\day16\day16.cpp
+CMakeFiles\aoc2020.dir\day16\day16.cpp.obj: ..\day16\day16.h
+CMakeFiles\aoc2020.dir\day16\day16.cpp.obj: ..\util.h
+
+CMakeFiles\aoc2020.dir\day17\day17.cpp.obj: ..\day17\day17.cpp
+CMakeFiles\aoc2020.dir\day17\day17.cpp.obj: ..\day17\day17.h
+CMakeFiles\aoc2020.dir\day17\day17.cpp.obj: ..\util.h
+
+CMakeFiles\aoc2020.dir\day18\day18.cpp.obj: ..\day18\day18.cpp
+CMakeFiles\aoc2020.dir\day18\day18.cpp.obj: ..\day18\day18.h
+CMakeFiles\aoc2020.dir\day18\day18.cpp.obj: ..\util.h
+
+CMakeFiles\aoc2020.dir\day19\day19.cpp.obj: ..\day19\day19.cpp
+CMakeFiles\aoc2020.dir\day19\day19.cpp.obj: ..\day19\day19.h
+CMakeFiles\aoc2020.dir\day19\day19.cpp.obj: ..\util.h
+
 CMakeFiles\aoc2020.dir\day2\day2.cpp.obj: ..\day2\day2.cpp
 CMakeFiles\aoc2020.dir\day2\day2.cpp.obj: ..\day2\day2.h
 CMakeFiles\aoc2020.dir\day2\day2.cpp.obj: ..\util.h
+
+CMakeFiles\aoc2020.dir\day20\day20.cpp.obj: ..\day20\day20.cpp
+CMakeFiles\aoc2020.dir\day20\day20.cpp.obj: ..\day20\day20.h
+CMakeFiles\aoc2020.dir\day20\day20.cpp.obj: ..\util.h
+
+CMakeFiles\aoc2020.dir\day21\day21.cpp.obj: ..\day21\day21.cpp
+CMakeFiles\aoc2020.dir\day21\day21.cpp.obj: ..\day21\day21.h
+CMakeFiles\aoc2020.dir\day21\day21.cpp.obj: ..\util.h
+
+CMakeFiles\aoc2020.dir\day22\day22.cpp.obj: ..\day22\day22.cpp
+CMakeFiles\aoc2020.dir\day22\day22.cpp.obj: ..\day22\day22.h
+CMakeFiles\aoc2020.dir\day22\day22.cpp.obj: ..\util.h
+
+CMakeFiles\aoc2020.dir\day23\day23.cpp.obj: ..\day23\day23.cpp
+CMakeFiles\aoc2020.dir\day23\day23.cpp.obj: ..\day23\day23.h
+CMakeFiles\aoc2020.dir\day23\day23.cpp.obj: ..\util.h
+
+CMakeFiles\aoc2020.dir\day24\day24.cpp.obj: ..\day24\day24.cpp
+CMakeFiles\aoc2020.dir\day24\day24.cpp.obj: ..\day24\day24.h
+CMakeFiles\aoc2020.dir\day24\day24.cpp.obj: ..\util.h
+
+CMakeFiles\aoc2020.dir\day25\day25.cpp.obj: ..\day25\day25.cpp
+CMakeFiles\aoc2020.dir\day25\day25.cpp.obj: ..\day25\day25.h
+CMakeFiles\aoc2020.dir\day25\day25.cpp.obj: ..\util.h
 
 CMakeFiles\aoc2020.dir\day3\day3.cpp.obj: ..\day3\day3.cpp
 CMakeFiles\aoc2020.dir\day3\day3.cpp.obj: ..\day3\day3.h
@@ -26,12 +90,39 @@ CMakeFiles\aoc2020.dir\day7\day7.cpp.obj: ..\day7\day7.cpp
 CMakeFiles\aoc2020.dir\day7\day7.cpp.obj: ..\day7\day7.h
 CMakeFiles\aoc2020.dir\day7\day7.cpp.obj: ..\util.h
 
+CMakeFiles\aoc2020.dir\day8\day8.cpp.obj: ..\day8\day8.cpp
+CMakeFiles\aoc2020.dir\day8\day8.cpp.obj: ..\day8\day8.h
+CMakeFiles\aoc2020.dir\day8\day8.cpp.obj: ..\util.h
+
+CMakeFiles\aoc2020.dir\day9\day9.cpp.obj: ..\day9\day9.cpp
+CMakeFiles\aoc2020.dir\day9\day9.cpp.obj: ..\day9\day9.h
+CMakeFiles\aoc2020.dir\day9\day9.cpp.obj: ..\util.h
+
 CMakeFiles\aoc2020.dir\main.cpp.obj: ..\day1\day1.h
+CMakeFiles\aoc2020.dir\main.cpp.obj: ..\day10\day10.h
+CMakeFiles\aoc2020.dir\main.cpp.obj: ..\day11\day11.h
+CMakeFiles\aoc2020.dir\main.cpp.obj: ..\day12\day12.h
+CMakeFiles\aoc2020.dir\main.cpp.obj: ..\day13\day13.h
+CMakeFiles\aoc2020.dir\main.cpp.obj: ..\day14\day14.h
+CMakeFiles\aoc2020.dir\main.cpp.obj: ..\day15\day15.h
+CMakeFiles\aoc2020.dir\main.cpp.obj: ..\day16\day16.h
+CMakeFiles\aoc2020.dir\main.cpp.obj: ..\day17\day17.h
+CMakeFiles\aoc2020.dir\main.cpp.obj: ..\day18\day18.h
+CMakeFiles\aoc2020.dir\main.cpp.obj: ..\day19\day19.h
 CMakeFiles\aoc2020.dir\main.cpp.obj: ..\day2\day2.h
+CMakeFiles\aoc2020.dir\main.cpp.obj: ..\day20\day20.h
+CMakeFiles\aoc2020.dir\main.cpp.obj: ..\day21\day21.h
+CMakeFiles\aoc2020.dir\main.cpp.obj: ..\day22\day22.h
+CMakeFiles\aoc2020.dir\main.cpp.obj: ..\day23\day23.h
+CMakeFiles\aoc2020.dir\main.cpp.obj: ..\day24\day24.h
+CMakeFiles\aoc2020.dir\main.cpp.obj: ..\day25\day25.h
 CMakeFiles\aoc2020.dir\main.cpp.obj: ..\day3\day3.h
 CMakeFiles\aoc2020.dir\main.cpp.obj: ..\day4\day4.h
 CMakeFiles\aoc2020.dir\main.cpp.obj: ..\day5\day5.h
 CMakeFiles\aoc2020.dir\main.cpp.obj: ..\day6\day6.h
+CMakeFiles\aoc2020.dir\main.cpp.obj: ..\day7\day7.h
+CMakeFiles\aoc2020.dir\main.cpp.obj: ..\day8\day8.h
+CMakeFiles\aoc2020.dir\main.cpp.obj: ..\day9\day9.h
 CMakeFiles\aoc2020.dir\main.cpp.obj: ..\main.cpp
 CMakeFiles\aoc2020.dir\main.cpp.obj: ..\util.h
 

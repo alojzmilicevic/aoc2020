@@ -505,32 +505,32 @@ day21\day21.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\aoc2020.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\aoc2020.dir\day21\day21.cpp.s
 .PHONY : day21\day21.cpp.s
 
-day22\day21.obj: day22\day21.cpp.obj
+day22\day22.obj: day22\day22.cpp.obj
 
-.PHONY : day22\day21.obj
+.PHONY : day22\day22.obj
 
 # target to build an object file
-day22\day21.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\aoc2020.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\aoc2020.dir\day22\day21.cpp.obj
-.PHONY : day22\day21.cpp.obj
+day22\day22.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\aoc2020.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\aoc2020.dir\day22\day22.cpp.obj
+.PHONY : day22\day22.cpp.obj
 
-day22\day21.i: day22\day21.cpp.i
+day22\day22.i: day22\day22.cpp.i
 
-.PHONY : day22\day21.i
+.PHONY : day22\day22.i
 
 # target to preprocess a source file
-day22\day21.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\aoc2020.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\aoc2020.dir\day22\day21.cpp.i
-.PHONY : day22\day21.cpp.i
+day22\day22.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\aoc2020.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\aoc2020.dir\day22\day22.cpp.i
+.PHONY : day22\day22.cpp.i
 
-day22\day21.s: day22\day21.cpp.s
+day22\day22.s: day22\day22.cpp.s
 
-.PHONY : day22\day21.s
+.PHONY : day22\day22.s
 
 # target to generate assembly for a file
-day22\day21.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\aoc2020.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\aoc2020.dir\day22\day21.cpp.s
-.PHONY : day22\day21.cpp.s
+day22\day22.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\aoc2020.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\aoc2020.dir\day22\day22.cpp.s
+.PHONY : day22\day22.cpp.s
 
 day23\day23.obj: day23\day23.cpp.obj
 
@@ -880,9 +880,9 @@ help:
 	@echo ... day21/day21.obj
 	@echo ... day21/day21.i
 	@echo ... day21/day21.s
-	@echo ... day22/day21.obj
-	@echo ... day22/day21.i
-	@echo ... day22/day21.s
+	@echo ... day22/day22.obj
+	@echo ... day22/day22.i
+	@echo ... day22/day22.s
 	@echo ... day23/day23.obj
 	@echo ... day23/day23.i
 	@echo ... day23/day23.s

@@ -13,7 +13,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/aoc2020.dir/day2/day2.cpp.obj"
   "CMakeFiles/aoc2020.dir/day20/day20.cpp.obj"
   "CMakeFiles/aoc2020.dir/day21/day21.cpp.obj"
-  "CMakeFiles/aoc2020.dir/day22/day21.cpp.obj"
+  "CMakeFiles/aoc2020.dir/day22/day22.cpp.obj"
   "CMakeFiles/aoc2020.dir/day23/day23.cpp.obj"
   "CMakeFiles/aoc2020.dir/day24/day24.cpp.obj"
   "CMakeFiles/aoc2020.dir/day25/day25.cpp.obj"
