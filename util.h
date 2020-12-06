@@ -6,6 +6,7 @@
 #include <vector>
 #include <iostream>
 #include <algorithm>
+#include <map>
 
 #define in_med_dig inline
 
@@ -202,4 +203,17 @@ in_med_dig vector<int> range(const int end) {
     for (int i{0}; i < end; ++i) set.push_back(i);
 
     return set;
+}
+
+in_med_dig int count_unique(const string &s) {
+    std::map<char, int> m;
+
+    for (int i = 0; i < s.length(); i++) {
+        char c{s[i]};
+        if (c != ' ') {
+            m[c]++;
+        }
+    }
+
+    return m.size();
 }

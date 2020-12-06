@@ -7,39 +7,51 @@
 #include "day3/day3.h"
 #include "day4/day4.h"
 #include "day5/day5.h"
+#include "day6/day6.h"
 
 using namespace std;
 
 int main() {
     pair<int, int> result{};
 
-    int days = 5;
+    int days = 7;
 
-    for (int i{0}; i < days; ++i) {
+    for (int i{1}; i <= days; ++i) {
         switch (i) {
-            case 0: {
-                //std::vector<int> input{read_num(i + 1)};
-                //result = day1::solve(input);
-                break;
-            }
             case 1: {
-                //std::vector<string> input {read_lines(i+1)};
-                //result = day2::solve(input);
+                std::vector<int> input{read_num(i)};
+                result = day1::solve(input);
                 break;
             }
             case 2: {
-                //std::vector<string> input {read_lines(i+1)};
-                //result = day3::solve(input);
+                std::vector<string> input {read_lines(i)};
+                result = day2::solve(input);
                 break;
             }
             case 3: {
-                //std::vector<string> input{read_chunks(i + 1)};
-                //result = day4::solve(input);
+                std::vector<string> input {read_lines(i)};
+                result = day3::solve(input);
                 break;
             }
             case 4: {
-                std::vector<string> input{read_lines(i + 1)};
+                std::vector<string> input{read_chunks(i)};
+                result = day4::solve(input);
+                break;
+            }
+            case 5: {
+                std::vector<string> input{read_lines(i)};
                 result = day5::solve(input);
+                break;
+            }
+
+            case 6: {
+                std::vector<string> input {read_chunks(i)};
+                result = day6::solve(input);
+                break;
+            }
+            case 7: {
+                std::vector<string> input {read_chunks(i)};
+                result = day6::solve(input);
                 break;
             }
             default: {
@@ -47,7 +59,7 @@ int main() {
                 break;
             }
         }
-        cout << "* * [Day " << i + 1 << "] * * " << endl << "Result part 1: " << result.first << endl;
+        cout << "* * [Day " << i << "] * * " << endl << "Result part 1: " << result.first << endl;
         cout << "Result part 2: " << result.second << endl << endl;
     }
 

@@ -154,6 +154,276 @@ day1\day1.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\aoc2020.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\aoc2020.dir\day1\day1.cpp.s
 .PHONY : day1\day1.cpp.s
 
+day10\day10.obj: day10\day10.cpp.obj
+
+.PHONY : day10\day10.obj
+
+# target to build an object file
+day10\day10.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\aoc2020.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\aoc2020.dir\day10\day10.cpp.obj
+.PHONY : day10\day10.cpp.obj
+
+day10\day10.i: day10\day10.cpp.i
+
+.PHONY : day10\day10.i
+
+# target to preprocess a source file
+day10\day10.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\aoc2020.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\aoc2020.dir\day10\day10.cpp.i
+.PHONY : day10\day10.cpp.i
+
+day10\day10.s: day10\day10.cpp.s
+
+.PHONY : day10\day10.s
+
+# target to generate assembly for a file
+day10\day10.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\aoc2020.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\aoc2020.dir\day10\day10.cpp.s
+.PHONY : day10\day10.cpp.s
+
+day11\day11.obj: day11\day11.cpp.obj
+
+.PHONY : day11\day11.obj
+
+# target to build an object file
+day11\day11.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\aoc2020.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\aoc2020.dir\day11\day11.cpp.obj
+.PHONY : day11\day11.cpp.obj
+
+day11\day11.i: day11\day11.cpp.i
+
+.PHONY : day11\day11.i
+
+# target to preprocess a source file
+day11\day11.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\aoc2020.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\aoc2020.dir\day11\day11.cpp.i
+.PHONY : day11\day11.cpp.i
+
+day11\day11.s: day11\day11.cpp.s
+
+.PHONY : day11\day11.s
+
+# target to generate assembly for a file
+day11\day11.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\aoc2020.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\aoc2020.dir\day11\day11.cpp.s
+.PHONY : day11\day11.cpp.s
+
+day12\day12.obj: day12\day12.cpp.obj
+
+.PHONY : day12\day12.obj
+
+# target to build an object file
+day12\day12.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\aoc2020.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\aoc2020.dir\day12\day12.cpp.obj
+.PHONY : day12\day12.cpp.obj
+
+day12\day12.i: day12\day12.cpp.i
+
+.PHONY : day12\day12.i
+
+# target to preprocess a source file
+day12\day12.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\aoc2020.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\aoc2020.dir\day12\day12.cpp.i
+.PHONY : day12\day12.cpp.i
+
+day12\day12.s: day12\day12.cpp.s
+
+.PHONY : day12\day12.s
+
+# target to generate assembly for a file
+day12\day12.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\aoc2020.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\aoc2020.dir\day12\day12.cpp.s
+.PHONY : day12\day12.cpp.s
+
+day13\day13.obj: day13\day13.cpp.obj
+
+.PHONY : day13\day13.obj
+
+# target to build an object file
+day13\day13.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\aoc2020.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\aoc2020.dir\day13\day13.cpp.obj
+.PHONY : day13\day13.cpp.obj
+
+day13\day13.i: day13\day13.cpp.i
+
+.PHONY : day13\day13.i
+
+# target to preprocess a source file
+day13\day13.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\aoc2020.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\aoc2020.dir\day13\day13.cpp.i
+.PHONY : day13\day13.cpp.i
+
+day13\day13.s: day13\day13.cpp.s
+
+.PHONY : day13\day13.s
+
+# target to generate assembly for a file
+day13\day13.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\aoc2020.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\aoc2020.dir\day13\day13.cpp.s
+.PHONY : day13\day13.cpp.s
+
+day14\day14.obj: day14\day14.cpp.obj
+
+.PHONY : day14\day14.obj
+
+# target to build an object file
+day14\day14.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\aoc2020.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\aoc2020.dir\day14\day14.cpp.obj
+.PHONY : day14\day14.cpp.obj
+
+day14\day14.i: day14\day14.cpp.i
+
+.PHONY : day14\day14.i
+
+# target to preprocess a source file
+day14\day14.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\aoc2020.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\aoc2020.dir\day14\day14.cpp.i
+.PHONY : day14\day14.cpp.i
+
+day14\day14.s: day14\day14.cpp.s
+
+.PHONY : day14\day14.s
+
+# target to generate assembly for a file
+day14\day14.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\aoc2020.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\aoc2020.dir\day14\day14.cpp.s
+.PHONY : day14\day14.cpp.s
+
+day15\day15.obj: day15\day15.cpp.obj
+
+.PHONY : day15\day15.obj
+
+# target to build an object file
+day15\day15.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\aoc2020.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\aoc2020.dir\day15\day15.cpp.obj
+.PHONY : day15\day15.cpp.obj
+
+day15\day15.i: day15\day15.cpp.i
+
+.PHONY : day15\day15.i
+
+# target to preprocess a source file
+day15\day15.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\aoc2020.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\aoc2020.dir\day15\day15.cpp.i
+.PHONY : day15\day15.cpp.i
+
+day15\day15.s: day15\day15.cpp.s
+
+.PHONY : day15\day15.s
+
+# target to generate assembly for a file
+day15\day15.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\aoc2020.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\aoc2020.dir\day15\day15.cpp.s
+.PHONY : day15\day15.cpp.s
+
+day16\day16.obj: day16\day16.cpp.obj
+
+.PHONY : day16\day16.obj
+
+# target to build an object file
+day16\day16.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\aoc2020.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\aoc2020.dir\day16\day16.cpp.obj
+.PHONY : day16\day16.cpp.obj
+
+day16\day16.i: day16\day16.cpp.i
+
+.PHONY : day16\day16.i
+
+# target to preprocess a source file
+day16\day16.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\aoc2020.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\aoc2020.dir\day16\day16.cpp.i
+.PHONY : day16\day16.cpp.i
+
+day16\day16.s: day16\day16.cpp.s
+
+.PHONY : day16\day16.s
+
+# target to generate assembly for a file
+day16\day16.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\aoc2020.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\aoc2020.dir\day16\day16.cpp.s
+.PHONY : day16\day16.cpp.s
+
+day17\day17.obj: day17\day17.cpp.obj
+
+.PHONY : day17\day17.obj
+
+# target to build an object file
+day17\day17.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\aoc2020.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\aoc2020.dir\day17\day17.cpp.obj
+.PHONY : day17\day17.cpp.obj
+
+day17\day17.i: day17\day17.cpp.i
+
+.PHONY : day17\day17.i
+
+# target to preprocess a source file
+day17\day17.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\aoc2020.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\aoc2020.dir\day17\day17.cpp.i
+.PHONY : day17\day17.cpp.i
+
+day17\day17.s: day17\day17.cpp.s
+
+.PHONY : day17\day17.s
+
+# target to generate assembly for a file
+day17\day17.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\aoc2020.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\aoc2020.dir\day17\day17.cpp.s
+.PHONY : day17\day17.cpp.s
+
+day18\day18.obj: day18\day18.cpp.obj
+
+.PHONY : day18\day18.obj
+
+# target to build an object file
+day18\day18.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\aoc2020.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\aoc2020.dir\day18\day18.cpp.obj
+.PHONY : day18\day18.cpp.obj
+
+day18\day18.i: day18\day18.cpp.i
+
+.PHONY : day18\day18.i
+
+# target to preprocess a source file
+day18\day18.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\aoc2020.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\aoc2020.dir\day18\day18.cpp.i
+.PHONY : day18\day18.cpp.i
+
+day18\day18.s: day18\day18.cpp.s
+
+.PHONY : day18\day18.s
+
+# target to generate assembly for a file
+day18\day18.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\aoc2020.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\aoc2020.dir\day18\day18.cpp.s
+.PHONY : day18\day18.cpp.s
+
+day19\day19.obj: day19\day19.cpp.obj
+
+.PHONY : day19\day19.obj
+
+# target to build an object file
+day19\day19.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\aoc2020.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\aoc2020.dir\day19\day19.cpp.obj
+.PHONY : day19\day19.cpp.obj
+
+day19\day19.i: day19\day19.cpp.i
+
+.PHONY : day19\day19.i
+
+# target to preprocess a source file
+day19\day19.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\aoc2020.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\aoc2020.dir\day19\day19.cpp.i
+.PHONY : day19\day19.cpp.i
+
+day19\day19.s: day19\day19.cpp.s
+
+.PHONY : day19\day19.s
+
+# target to generate assembly for a file
+day19\day19.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\aoc2020.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\aoc2020.dir\day19\day19.cpp.s
+.PHONY : day19\day19.cpp.s
+
 day2\day2.obj: day2\day2.cpp.obj
 
 .PHONY : day2\day2.obj
@@ -180,6 +450,168 @@ day2\day2.s: day2\day2.cpp.s
 day2\day2.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\aoc2020.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\aoc2020.dir\day2\day2.cpp.s
 .PHONY : day2\day2.cpp.s
+
+day20\day20.obj: day20\day20.cpp.obj
+
+.PHONY : day20\day20.obj
+
+# target to build an object file
+day20\day20.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\aoc2020.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\aoc2020.dir\day20\day20.cpp.obj
+.PHONY : day20\day20.cpp.obj
+
+day20\day20.i: day20\day20.cpp.i
+
+.PHONY : day20\day20.i
+
+# target to preprocess a source file
+day20\day20.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\aoc2020.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\aoc2020.dir\day20\day20.cpp.i
+.PHONY : day20\day20.cpp.i
+
+day20\day20.s: day20\day20.cpp.s
+
+.PHONY : day20\day20.s
+
+# target to generate assembly for a file
+day20\day20.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\aoc2020.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\aoc2020.dir\day20\day20.cpp.s
+.PHONY : day20\day20.cpp.s
+
+day21\day21.obj: day21\day21.cpp.obj
+
+.PHONY : day21\day21.obj
+
+# target to build an object file
+day21\day21.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\aoc2020.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\aoc2020.dir\day21\day21.cpp.obj
+.PHONY : day21\day21.cpp.obj
+
+day21\day21.i: day21\day21.cpp.i
+
+.PHONY : day21\day21.i
+
+# target to preprocess a source file
+day21\day21.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\aoc2020.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\aoc2020.dir\day21\day21.cpp.i
+.PHONY : day21\day21.cpp.i
+
+day21\day21.s: day21\day21.cpp.s
+
+.PHONY : day21\day21.s
+
+# target to generate assembly for a file
+day21\day21.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\aoc2020.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\aoc2020.dir\day21\day21.cpp.s
+.PHONY : day21\day21.cpp.s
+
+day22\day21.obj: day22\day21.cpp.obj
+
+.PHONY : day22\day21.obj
+
+# target to build an object file
+day22\day21.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\aoc2020.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\aoc2020.dir\day22\day21.cpp.obj
+.PHONY : day22\day21.cpp.obj
+
+day22\day21.i: day22\day21.cpp.i
+
+.PHONY : day22\day21.i
+
+# target to preprocess a source file
+day22\day21.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\aoc2020.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\aoc2020.dir\day22\day21.cpp.i
+.PHONY : day22\day21.cpp.i
+
+day22\day21.s: day22\day21.cpp.s
+
+.PHONY : day22\day21.s
+
+# target to generate assembly for a file
+day22\day21.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\aoc2020.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\aoc2020.dir\day22\day21.cpp.s
+.PHONY : day22\day21.cpp.s
+
+day23\day23.obj: day23\day23.cpp.obj
+
+.PHONY : day23\day23.obj
+
+# target to build an object file
+day23\day23.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\aoc2020.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\aoc2020.dir\day23\day23.cpp.obj
+.PHONY : day23\day23.cpp.obj
+
+day23\day23.i: day23\day23.cpp.i
+
+.PHONY : day23\day23.i
+
+# target to preprocess a source file
+day23\day23.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\aoc2020.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\aoc2020.dir\day23\day23.cpp.i
+.PHONY : day23\day23.cpp.i
+
+day23\day23.s: day23\day23.cpp.s
+
+.PHONY : day23\day23.s
+
+# target to generate assembly for a file
+day23\day23.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\aoc2020.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\aoc2020.dir\day23\day23.cpp.s
+.PHONY : day23\day23.cpp.s
+
+day24\day24.obj: day24\day24.cpp.obj
+
+.PHONY : day24\day24.obj
+
+# target to build an object file
+day24\day24.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\aoc2020.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\aoc2020.dir\day24\day24.cpp.obj
+.PHONY : day24\day24.cpp.obj
+
+day24\day24.i: day24\day24.cpp.i
+
+.PHONY : day24\day24.i
+
+# target to preprocess a source file
+day24\day24.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\aoc2020.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\aoc2020.dir\day24\day24.cpp.i
+.PHONY : day24\day24.cpp.i
+
+day24\day24.s: day24\day24.cpp.s
+
+.PHONY : day24\day24.s
+
+# target to generate assembly for a file
+day24\day24.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\aoc2020.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\aoc2020.dir\day24\day24.cpp.s
+.PHONY : day24\day24.cpp.s
+
+day25\day25.obj: day25\day25.cpp.obj
+
+.PHONY : day25\day25.obj
+
+# target to build an object file
+day25\day25.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\aoc2020.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\aoc2020.dir\day25\day25.cpp.obj
+.PHONY : day25\day25.cpp.obj
+
+day25\day25.i: day25\day25.cpp.i
+
+.PHONY : day25\day25.i
+
+# target to preprocess a source file
+day25\day25.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\aoc2020.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\aoc2020.dir\day25\day25.cpp.i
+.PHONY : day25\day25.cpp.i
+
+day25\day25.s: day25\day25.cpp.s
+
+.PHONY : day25\day25.s
+
+# target to generate assembly for a file
+day25\day25.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\aoc2020.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\aoc2020.dir\day25\day25.cpp.s
+.PHONY : day25\day25.cpp.s
 
 day3\day3.obj: day3\day3.cpp.obj
 
@@ -289,6 +721,87 @@ day6\day6.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\aoc2020.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\aoc2020.dir\day6\day6.cpp.s
 .PHONY : day6\day6.cpp.s
 
+day7\day7.obj: day7\day7.cpp.obj
+
+.PHONY : day7\day7.obj
+
+# target to build an object file
+day7\day7.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\aoc2020.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\aoc2020.dir\day7\day7.cpp.obj
+.PHONY : day7\day7.cpp.obj
+
+day7\day7.i: day7\day7.cpp.i
+
+.PHONY : day7\day7.i
+
+# target to preprocess a source file
+day7\day7.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\aoc2020.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\aoc2020.dir\day7\day7.cpp.i
+.PHONY : day7\day7.cpp.i
+
+day7\day7.s: day7\day7.cpp.s
+
+.PHONY : day7\day7.s
+
+# target to generate assembly for a file
+day7\day7.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\aoc2020.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\aoc2020.dir\day7\day7.cpp.s
+.PHONY : day7\day7.cpp.s
+
+day8\day8.obj: day8\day8.cpp.obj
+
+.PHONY : day8\day8.obj
+
+# target to build an object file
+day8\day8.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\aoc2020.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\aoc2020.dir\day8\day8.cpp.obj
+.PHONY : day8\day8.cpp.obj
+
+day8\day8.i: day8\day8.cpp.i
+
+.PHONY : day8\day8.i
+
+# target to preprocess a source file
+day8\day8.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\aoc2020.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\aoc2020.dir\day8\day8.cpp.i
+.PHONY : day8\day8.cpp.i
+
+day8\day8.s: day8\day8.cpp.s
+
+.PHONY : day8\day8.s
+
+# target to generate assembly for a file
+day8\day8.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\aoc2020.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\aoc2020.dir\day8\day8.cpp.s
+.PHONY : day8\day8.cpp.s
+
+day9\day9.obj: day9\day9.cpp.obj
+
+.PHONY : day9\day9.obj
+
+# target to build an object file
+day9\day9.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\aoc2020.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\aoc2020.dir\day9\day9.cpp.obj
+.PHONY : day9\day9.cpp.obj
+
+day9\day9.i: day9\day9.cpp.i
+
+.PHONY : day9\day9.i
+
+# target to preprocess a source file
+day9\day9.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\aoc2020.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\aoc2020.dir\day9\day9.cpp.i
+.PHONY : day9\day9.cpp.i
+
+day9\day9.s: day9\day9.cpp.s
+
+.PHONY : day9\day9.s
+
+# target to generate assembly for a file
+day9\day9.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\aoc2020.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\aoc2020.dir\day9\day9.cpp.s
+.PHONY : day9\day9.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -328,9 +841,57 @@ help:
 	@echo ... day1/day1.obj
 	@echo ... day1/day1.i
 	@echo ... day1/day1.s
+	@echo ... day10/day10.obj
+	@echo ... day10/day10.i
+	@echo ... day10/day10.s
+	@echo ... day11/day11.obj
+	@echo ... day11/day11.i
+	@echo ... day11/day11.s
+	@echo ... day12/day12.obj
+	@echo ... day12/day12.i
+	@echo ... day12/day12.s
+	@echo ... day13/day13.obj
+	@echo ... day13/day13.i
+	@echo ... day13/day13.s
+	@echo ... day14/day14.obj
+	@echo ... day14/day14.i
+	@echo ... day14/day14.s
+	@echo ... day15/day15.obj
+	@echo ... day15/day15.i
+	@echo ... day15/day15.s
+	@echo ... day16/day16.obj
+	@echo ... day16/day16.i
+	@echo ... day16/day16.s
+	@echo ... day17/day17.obj
+	@echo ... day17/day17.i
+	@echo ... day17/day17.s
+	@echo ... day18/day18.obj
+	@echo ... day18/day18.i
+	@echo ... day18/day18.s
+	@echo ... day19/day19.obj
+	@echo ... day19/day19.i
+	@echo ... day19/day19.s
 	@echo ... day2/day2.obj
 	@echo ... day2/day2.i
 	@echo ... day2/day2.s
+	@echo ... day20/day20.obj
+	@echo ... day20/day20.i
+	@echo ... day20/day20.s
+	@echo ... day21/day21.obj
+	@echo ... day21/day21.i
+	@echo ... day21/day21.s
+	@echo ... day22/day21.obj
+	@echo ... day22/day21.i
+	@echo ... day22/day21.s
+	@echo ... day23/day23.obj
+	@echo ... day23/day23.i
+	@echo ... day23/day23.s
+	@echo ... day24/day24.obj
+	@echo ... day24/day24.i
+	@echo ... day24/day24.s
+	@echo ... day25/day25.obj
+	@echo ... day25/day25.i
+	@echo ... day25/day25.s
 	@echo ... day3/day3.obj
 	@echo ... day3/day3.i
 	@echo ... day3/day3.s
@@ -343,6 +904,15 @@ help:
 	@echo ... day6/day6.obj
 	@echo ... day6/day6.i
 	@echo ... day6/day6.s
+	@echo ... day7/day7.obj
+	@echo ... day7/day7.i
+	@echo ... day7/day7.s
+	@echo ... day8/day8.obj
+	@echo ... day8/day8.i
+	@echo ... day8/day8.s
+	@echo ... day9/day9.obj
+	@echo ... day9/day9.i
+	@echo ... day9/day9.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

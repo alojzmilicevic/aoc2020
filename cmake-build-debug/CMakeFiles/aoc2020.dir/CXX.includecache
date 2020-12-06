@@ -6,14 +6,24 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/alojz/CLionProjects/aoc2020/day5/day5.cpp
-day5.h
-C:/Users/alojz/CLionProjects/aoc2020/day5/day5.h
-../util.h
-C:/Users/alojz/CLionProjects/aoc2020/util.h
+C:/Users/alojz/CLionProjects/aoc2020/day1/day1.h
 vector
 -
-iostream
+
+C:/Users/alojz/CLionProjects/aoc2020/day2/day2.h
+vector
+-
+string
+-
+
+C:/Users/alojz/CLionProjects/aoc2020/day3/day3.h
+vector
+-
+string
+-
+
+C:/Users/alojz/CLionProjects/aoc2020/day4/day4.h
+vector
 -
 string
 -
@@ -23,6 +33,32 @@ vector
 -
 string
 -
+
+C:/Users/alojz/CLionProjects/aoc2020/day6/day6.h
+vector
+-
+string
+-
+
+C:/Users/alojz/CLionProjects/aoc2020/main.cpp
+iostream
+-
+vector
+-
+util.h
+C:/Users/alojz/CLionProjects/aoc2020/util.h
+day1/day1.h
+C:/Users/alojz/CLionProjects/aoc2020/day1/day1.h
+day2/day2.h
+C:/Users/alojz/CLionProjects/aoc2020/day2/day2.h
+day3/day3.h
+C:/Users/alojz/CLionProjects/aoc2020/day3/day3.h
+day4/day4.h
+C:/Users/alojz/CLionProjects/aoc2020/day4/day4.h
+day5/day5.h
+C:/Users/alojz/CLionProjects/aoc2020/day5/day5.h
+day6/day6.h
+C:/Users/alojz/CLionProjects/aoc2020/day6/day6.h
 
 C:/Users/alojz/CLionProjects/aoc2020/util.h
 string
@@ -36,5 +72,7 @@ vector
 iostream
 -
 algorithm
+-
+map
 -
 

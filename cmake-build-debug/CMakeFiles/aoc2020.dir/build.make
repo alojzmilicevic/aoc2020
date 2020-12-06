@@ -194,6 +194,367 @@ CMakeFiles\aoc2020.dir\day6\day6.cpp.s: cmake_force
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\aoc2020.dir\day6\day6.cpp.s /c C:\Users\alojz\CLionProjects\aoc2020\day6\day6.cpp
 <<
 
+CMakeFiles\aoc2020.dir\day7\day7.cpp.obj: CMakeFiles\aoc2020.dir\flags.make
+CMakeFiles\aoc2020.dir\day7\day7.cpp.obj: ..\day7\day7.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\alojz\CLionProjects\aoc2020\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/aoc2020.dir/day7/day7.cpp.obj"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1425~1.286\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\aoc2020.dir\day7\day7.cpp.obj /FdCMakeFiles\aoc2020.dir\ /FS -c C:\Users\alojz\CLionProjects\aoc2020\day7\day7.cpp
+<<
+
+CMakeFiles\aoc2020.dir\day7\day7.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/aoc2020.dir/day7/day7.cpp.i"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1425~1.286\bin\Hostx86\x86\cl.exe > CMakeFiles\aoc2020.dir\day7\day7.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\alojz\CLionProjects\aoc2020\day7\day7.cpp
+<<
+
+CMakeFiles\aoc2020.dir\day7\day7.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/aoc2020.dir/day7/day7.cpp.s"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1425~1.286\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\aoc2020.dir\day7\day7.cpp.s /c C:\Users\alojz\CLionProjects\aoc2020\day7\day7.cpp
+<<
+
+CMakeFiles\aoc2020.dir\day8\day8.cpp.obj: CMakeFiles\aoc2020.dir\flags.make
+CMakeFiles\aoc2020.dir\day8\day8.cpp.obj: ..\day8\day8.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\alojz\CLionProjects\aoc2020\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/aoc2020.dir/day8/day8.cpp.obj"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1425~1.286\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\aoc2020.dir\day8\day8.cpp.obj /FdCMakeFiles\aoc2020.dir\ /FS -c C:\Users\alojz\CLionProjects\aoc2020\day8\day8.cpp
+<<
+
+CMakeFiles\aoc2020.dir\day8\day8.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/aoc2020.dir/day8/day8.cpp.i"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1425~1.286\bin\Hostx86\x86\cl.exe > CMakeFiles\aoc2020.dir\day8\day8.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\alojz\CLionProjects\aoc2020\day8\day8.cpp
+<<
+
+CMakeFiles\aoc2020.dir\day8\day8.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/aoc2020.dir/day8/day8.cpp.s"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1425~1.286\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\aoc2020.dir\day8\day8.cpp.s /c C:\Users\alojz\CLionProjects\aoc2020\day8\day8.cpp
+<<
+
+CMakeFiles\aoc2020.dir\day9\day9.cpp.obj: CMakeFiles\aoc2020.dir\flags.make
+CMakeFiles\aoc2020.dir\day9\day9.cpp.obj: ..\day9\day9.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\alojz\CLionProjects\aoc2020\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/aoc2020.dir/day9/day9.cpp.obj"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1425~1.286\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\aoc2020.dir\day9\day9.cpp.obj /FdCMakeFiles\aoc2020.dir\ /FS -c C:\Users\alojz\CLionProjects\aoc2020\day9\day9.cpp
+<<
+
+CMakeFiles\aoc2020.dir\day9\day9.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/aoc2020.dir/day9/day9.cpp.i"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1425~1.286\bin\Hostx86\x86\cl.exe > CMakeFiles\aoc2020.dir\day9\day9.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\alojz\CLionProjects\aoc2020\day9\day9.cpp
+<<
+
+CMakeFiles\aoc2020.dir\day9\day9.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/aoc2020.dir/day9/day9.cpp.s"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1425~1.286\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\aoc2020.dir\day9\day9.cpp.s /c C:\Users\alojz\CLionProjects\aoc2020\day9\day9.cpp
+<<
+
+CMakeFiles\aoc2020.dir\day10\day10.cpp.obj: CMakeFiles\aoc2020.dir\flags.make
+CMakeFiles\aoc2020.dir\day10\day10.cpp.obj: ..\day10\day10.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\alojz\CLionProjects\aoc2020\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/aoc2020.dir/day10/day10.cpp.obj"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1425~1.286\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\aoc2020.dir\day10\day10.cpp.obj /FdCMakeFiles\aoc2020.dir\ /FS -c C:\Users\alojz\CLionProjects\aoc2020\day10\day10.cpp
+<<
+
+CMakeFiles\aoc2020.dir\day10\day10.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/aoc2020.dir/day10/day10.cpp.i"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1425~1.286\bin\Hostx86\x86\cl.exe > CMakeFiles\aoc2020.dir\day10\day10.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\alojz\CLionProjects\aoc2020\day10\day10.cpp
+<<
+
+CMakeFiles\aoc2020.dir\day10\day10.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/aoc2020.dir/day10/day10.cpp.s"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1425~1.286\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\aoc2020.dir\day10\day10.cpp.s /c C:\Users\alojz\CLionProjects\aoc2020\day10\day10.cpp
+<<
+
+CMakeFiles\aoc2020.dir\day11\day11.cpp.obj: CMakeFiles\aoc2020.dir\flags.make
+CMakeFiles\aoc2020.dir\day11\day11.cpp.obj: ..\day11\day11.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\alojz\CLionProjects\aoc2020\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/aoc2020.dir/day11/day11.cpp.obj"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1425~1.286\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\aoc2020.dir\day11\day11.cpp.obj /FdCMakeFiles\aoc2020.dir\ /FS -c C:\Users\alojz\CLionProjects\aoc2020\day11\day11.cpp
+<<
+
+CMakeFiles\aoc2020.dir\day11\day11.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/aoc2020.dir/day11/day11.cpp.i"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1425~1.286\bin\Hostx86\x86\cl.exe > CMakeFiles\aoc2020.dir\day11\day11.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\alojz\CLionProjects\aoc2020\day11\day11.cpp
+<<
+
+CMakeFiles\aoc2020.dir\day11\day11.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/aoc2020.dir/day11/day11.cpp.s"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1425~1.286\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\aoc2020.dir\day11\day11.cpp.s /c C:\Users\alojz\CLionProjects\aoc2020\day11\day11.cpp
+<<
+
+CMakeFiles\aoc2020.dir\day12\day12.cpp.obj: CMakeFiles\aoc2020.dir\flags.make
+CMakeFiles\aoc2020.dir\day12\day12.cpp.obj: ..\day12\day12.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\alojz\CLionProjects\aoc2020\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/aoc2020.dir/day12/day12.cpp.obj"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1425~1.286\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\aoc2020.dir\day12\day12.cpp.obj /FdCMakeFiles\aoc2020.dir\ /FS -c C:\Users\alojz\CLionProjects\aoc2020\day12\day12.cpp
+<<
+
+CMakeFiles\aoc2020.dir\day12\day12.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/aoc2020.dir/day12/day12.cpp.i"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1425~1.286\bin\Hostx86\x86\cl.exe > CMakeFiles\aoc2020.dir\day12\day12.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\alojz\CLionProjects\aoc2020\day12\day12.cpp
+<<
+
+CMakeFiles\aoc2020.dir\day12\day12.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/aoc2020.dir/day12/day12.cpp.s"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1425~1.286\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\aoc2020.dir\day12\day12.cpp.s /c C:\Users\alojz\CLionProjects\aoc2020\day12\day12.cpp
+<<
+
+CMakeFiles\aoc2020.dir\day13\day13.cpp.obj: CMakeFiles\aoc2020.dir\flags.make
+CMakeFiles\aoc2020.dir\day13\day13.cpp.obj: ..\day13\day13.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\alojz\CLionProjects\aoc2020\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/aoc2020.dir/day13/day13.cpp.obj"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1425~1.286\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\aoc2020.dir\day13\day13.cpp.obj /FdCMakeFiles\aoc2020.dir\ /FS -c C:\Users\alojz\CLionProjects\aoc2020\day13\day13.cpp
+<<
+
+CMakeFiles\aoc2020.dir\day13\day13.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/aoc2020.dir/day13/day13.cpp.i"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1425~1.286\bin\Hostx86\x86\cl.exe > CMakeFiles\aoc2020.dir\day13\day13.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\alojz\CLionProjects\aoc2020\day13\day13.cpp
+<<
+
+CMakeFiles\aoc2020.dir\day13\day13.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/aoc2020.dir/day13/day13.cpp.s"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1425~1.286\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\aoc2020.dir\day13\day13.cpp.s /c C:\Users\alojz\CLionProjects\aoc2020\day13\day13.cpp
+<<
+
+CMakeFiles\aoc2020.dir\day14\day14.cpp.obj: CMakeFiles\aoc2020.dir\flags.make
+CMakeFiles\aoc2020.dir\day14\day14.cpp.obj: ..\day14\day14.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\alojz\CLionProjects\aoc2020\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/aoc2020.dir/day14/day14.cpp.obj"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1425~1.286\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\aoc2020.dir\day14\day14.cpp.obj /FdCMakeFiles\aoc2020.dir\ /FS -c C:\Users\alojz\CLionProjects\aoc2020\day14\day14.cpp
+<<
+
+CMakeFiles\aoc2020.dir\day14\day14.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/aoc2020.dir/day14/day14.cpp.i"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1425~1.286\bin\Hostx86\x86\cl.exe > CMakeFiles\aoc2020.dir\day14\day14.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\alojz\CLionProjects\aoc2020\day14\day14.cpp
+<<
+
+CMakeFiles\aoc2020.dir\day14\day14.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/aoc2020.dir/day14/day14.cpp.s"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1425~1.286\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\aoc2020.dir\day14\day14.cpp.s /c C:\Users\alojz\CLionProjects\aoc2020\day14\day14.cpp
+<<
+
+CMakeFiles\aoc2020.dir\day15\day15.cpp.obj: CMakeFiles\aoc2020.dir\flags.make
+CMakeFiles\aoc2020.dir\day15\day15.cpp.obj: ..\day15\day15.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\alojz\CLionProjects\aoc2020\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/aoc2020.dir/day15/day15.cpp.obj"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1425~1.286\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\aoc2020.dir\day15\day15.cpp.obj /FdCMakeFiles\aoc2020.dir\ /FS -c C:\Users\alojz\CLionProjects\aoc2020\day15\day15.cpp
+<<
+
+CMakeFiles\aoc2020.dir\day15\day15.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/aoc2020.dir/day15/day15.cpp.i"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1425~1.286\bin\Hostx86\x86\cl.exe > CMakeFiles\aoc2020.dir\day15\day15.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\alojz\CLionProjects\aoc2020\day15\day15.cpp
+<<
+
+CMakeFiles\aoc2020.dir\day15\day15.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/aoc2020.dir/day15/day15.cpp.s"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1425~1.286\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\aoc2020.dir\day15\day15.cpp.s /c C:\Users\alojz\CLionProjects\aoc2020\day15\day15.cpp
+<<
+
+CMakeFiles\aoc2020.dir\day16\day16.cpp.obj: CMakeFiles\aoc2020.dir\flags.make
+CMakeFiles\aoc2020.dir\day16\day16.cpp.obj: ..\day16\day16.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\alojz\CLionProjects\aoc2020\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/aoc2020.dir/day16/day16.cpp.obj"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1425~1.286\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\aoc2020.dir\day16\day16.cpp.obj /FdCMakeFiles\aoc2020.dir\ /FS -c C:\Users\alojz\CLionProjects\aoc2020\day16\day16.cpp
+<<
+
+CMakeFiles\aoc2020.dir\day16\day16.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/aoc2020.dir/day16/day16.cpp.i"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1425~1.286\bin\Hostx86\x86\cl.exe > CMakeFiles\aoc2020.dir\day16\day16.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\alojz\CLionProjects\aoc2020\day16\day16.cpp
+<<
+
+CMakeFiles\aoc2020.dir\day16\day16.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/aoc2020.dir/day16/day16.cpp.s"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1425~1.286\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\aoc2020.dir\day16\day16.cpp.s /c C:\Users\alojz\CLionProjects\aoc2020\day16\day16.cpp
+<<
+
+CMakeFiles\aoc2020.dir\day17\day17.cpp.obj: CMakeFiles\aoc2020.dir\flags.make
+CMakeFiles\aoc2020.dir\day17\day17.cpp.obj: ..\day17\day17.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\alojz\CLionProjects\aoc2020\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/aoc2020.dir/day17/day17.cpp.obj"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1425~1.286\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\aoc2020.dir\day17\day17.cpp.obj /FdCMakeFiles\aoc2020.dir\ /FS -c C:\Users\alojz\CLionProjects\aoc2020\day17\day17.cpp
+<<
+
+CMakeFiles\aoc2020.dir\day17\day17.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/aoc2020.dir/day17/day17.cpp.i"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1425~1.286\bin\Hostx86\x86\cl.exe > CMakeFiles\aoc2020.dir\day17\day17.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\alojz\CLionProjects\aoc2020\day17\day17.cpp
+<<
+
+CMakeFiles\aoc2020.dir\day17\day17.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/aoc2020.dir/day17/day17.cpp.s"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1425~1.286\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\aoc2020.dir\day17\day17.cpp.s /c C:\Users\alojz\CLionProjects\aoc2020\day17\day17.cpp
+<<
+
+CMakeFiles\aoc2020.dir\day18\day18.cpp.obj: CMakeFiles\aoc2020.dir\flags.make
+CMakeFiles\aoc2020.dir\day18\day18.cpp.obj: ..\day18\day18.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\alojz\CLionProjects\aoc2020\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/aoc2020.dir/day18/day18.cpp.obj"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1425~1.286\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\aoc2020.dir\day18\day18.cpp.obj /FdCMakeFiles\aoc2020.dir\ /FS -c C:\Users\alojz\CLionProjects\aoc2020\day18\day18.cpp
+<<
+
+CMakeFiles\aoc2020.dir\day18\day18.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/aoc2020.dir/day18/day18.cpp.i"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1425~1.286\bin\Hostx86\x86\cl.exe > CMakeFiles\aoc2020.dir\day18\day18.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\alojz\CLionProjects\aoc2020\day18\day18.cpp
+<<
+
+CMakeFiles\aoc2020.dir\day18\day18.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/aoc2020.dir/day18/day18.cpp.s"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1425~1.286\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\aoc2020.dir\day18\day18.cpp.s /c C:\Users\alojz\CLionProjects\aoc2020\day18\day18.cpp
+<<
+
+CMakeFiles\aoc2020.dir\day19\day19.cpp.obj: CMakeFiles\aoc2020.dir\flags.make
+CMakeFiles\aoc2020.dir\day19\day19.cpp.obj: ..\day19\day19.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\alojz\CLionProjects\aoc2020\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/aoc2020.dir/day19/day19.cpp.obj"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1425~1.286\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\aoc2020.dir\day19\day19.cpp.obj /FdCMakeFiles\aoc2020.dir\ /FS -c C:\Users\alojz\CLionProjects\aoc2020\day19\day19.cpp
+<<
+
+CMakeFiles\aoc2020.dir\day19\day19.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/aoc2020.dir/day19/day19.cpp.i"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1425~1.286\bin\Hostx86\x86\cl.exe > CMakeFiles\aoc2020.dir\day19\day19.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\alojz\CLionProjects\aoc2020\day19\day19.cpp
+<<
+
+CMakeFiles\aoc2020.dir\day19\day19.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/aoc2020.dir/day19/day19.cpp.s"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1425~1.286\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\aoc2020.dir\day19\day19.cpp.s /c C:\Users\alojz\CLionProjects\aoc2020\day19\day19.cpp
+<<
+
+CMakeFiles\aoc2020.dir\day20\day20.cpp.obj: CMakeFiles\aoc2020.dir\flags.make
+CMakeFiles\aoc2020.dir\day20\day20.cpp.obj: ..\day20\day20.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\alojz\CLionProjects\aoc2020\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/aoc2020.dir/day20/day20.cpp.obj"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1425~1.286\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\aoc2020.dir\day20\day20.cpp.obj /FdCMakeFiles\aoc2020.dir\ /FS -c C:\Users\alojz\CLionProjects\aoc2020\day20\day20.cpp
+<<
+
+CMakeFiles\aoc2020.dir\day20\day20.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/aoc2020.dir/day20/day20.cpp.i"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1425~1.286\bin\Hostx86\x86\cl.exe > CMakeFiles\aoc2020.dir\day20\day20.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\alojz\CLionProjects\aoc2020\day20\day20.cpp
+<<
+
+CMakeFiles\aoc2020.dir\day20\day20.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/aoc2020.dir/day20/day20.cpp.s"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1425~1.286\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\aoc2020.dir\day20\day20.cpp.s /c C:\Users\alojz\CLionProjects\aoc2020\day20\day20.cpp
+<<
+
+CMakeFiles\aoc2020.dir\day21\day21.cpp.obj: CMakeFiles\aoc2020.dir\flags.make
+CMakeFiles\aoc2020.dir\day21\day21.cpp.obj: ..\day21\day21.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\alojz\CLionProjects\aoc2020\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/aoc2020.dir/day21/day21.cpp.obj"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1425~1.286\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\aoc2020.dir\day21\day21.cpp.obj /FdCMakeFiles\aoc2020.dir\ /FS -c C:\Users\alojz\CLionProjects\aoc2020\day21\day21.cpp
+<<
+
+CMakeFiles\aoc2020.dir\day21\day21.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/aoc2020.dir/day21/day21.cpp.i"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1425~1.286\bin\Hostx86\x86\cl.exe > CMakeFiles\aoc2020.dir\day21\day21.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\alojz\CLionProjects\aoc2020\day21\day21.cpp
+<<
+
+CMakeFiles\aoc2020.dir\day21\day21.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/aoc2020.dir/day21/day21.cpp.s"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1425~1.286\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\aoc2020.dir\day21\day21.cpp.s /c C:\Users\alojz\CLionProjects\aoc2020\day21\day21.cpp
+<<
+
+CMakeFiles\aoc2020.dir\day22\day21.cpp.obj: CMakeFiles\aoc2020.dir\flags.make
+CMakeFiles\aoc2020.dir\day22\day21.cpp.obj: ..\day22\day21.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\alojz\CLionProjects\aoc2020\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/aoc2020.dir/day22/day21.cpp.obj"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1425~1.286\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\aoc2020.dir\day22\day21.cpp.obj /FdCMakeFiles\aoc2020.dir\ /FS -c C:\Users\alojz\CLionProjects\aoc2020\day22\day21.cpp
+<<
+
+CMakeFiles\aoc2020.dir\day22\day21.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/aoc2020.dir/day22/day21.cpp.i"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1425~1.286\bin\Hostx86\x86\cl.exe > CMakeFiles\aoc2020.dir\day22\day21.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\alojz\CLionProjects\aoc2020\day22\day21.cpp
+<<
+
+CMakeFiles\aoc2020.dir\day22\day21.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/aoc2020.dir/day22/day21.cpp.s"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1425~1.286\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\aoc2020.dir\day22\day21.cpp.s /c C:\Users\alojz\CLionProjects\aoc2020\day22\day21.cpp
+<<
+
+CMakeFiles\aoc2020.dir\day23\day23.cpp.obj: CMakeFiles\aoc2020.dir\flags.make
+CMakeFiles\aoc2020.dir\day23\day23.cpp.obj: ..\day23\day23.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\alojz\CLionProjects\aoc2020\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/aoc2020.dir/day23/day23.cpp.obj"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1425~1.286\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\aoc2020.dir\day23\day23.cpp.obj /FdCMakeFiles\aoc2020.dir\ /FS -c C:\Users\alojz\CLionProjects\aoc2020\day23\day23.cpp
+<<
+
+CMakeFiles\aoc2020.dir\day23\day23.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/aoc2020.dir/day23/day23.cpp.i"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1425~1.286\bin\Hostx86\x86\cl.exe > CMakeFiles\aoc2020.dir\day23\day23.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\alojz\CLionProjects\aoc2020\day23\day23.cpp
+<<
+
+CMakeFiles\aoc2020.dir\day23\day23.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/aoc2020.dir/day23/day23.cpp.s"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1425~1.286\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\aoc2020.dir\day23\day23.cpp.s /c C:\Users\alojz\CLionProjects\aoc2020\day23\day23.cpp
+<<
+
+CMakeFiles\aoc2020.dir\day24\day24.cpp.obj: CMakeFiles\aoc2020.dir\flags.make
+CMakeFiles\aoc2020.dir\day24\day24.cpp.obj: ..\day24\day24.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\alojz\CLionProjects\aoc2020\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/aoc2020.dir/day24/day24.cpp.obj"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1425~1.286\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\aoc2020.dir\day24\day24.cpp.obj /FdCMakeFiles\aoc2020.dir\ /FS -c C:\Users\alojz\CLionProjects\aoc2020\day24\day24.cpp
+<<
+
+CMakeFiles\aoc2020.dir\day24\day24.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/aoc2020.dir/day24/day24.cpp.i"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1425~1.286\bin\Hostx86\x86\cl.exe > CMakeFiles\aoc2020.dir\day24\day24.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\alojz\CLionProjects\aoc2020\day24\day24.cpp
+<<
+
+CMakeFiles\aoc2020.dir\day24\day24.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/aoc2020.dir/day24/day24.cpp.s"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1425~1.286\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\aoc2020.dir\day24\day24.cpp.s /c C:\Users\alojz\CLionProjects\aoc2020\day24\day24.cpp
+<<
+
+CMakeFiles\aoc2020.dir\day25\day25.cpp.obj: CMakeFiles\aoc2020.dir\flags.make
+CMakeFiles\aoc2020.dir\day25\day25.cpp.obj: ..\day25\day25.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\alojz\CLionProjects\aoc2020\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object CMakeFiles/aoc2020.dir/day25/day25.cpp.obj"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1425~1.286\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\aoc2020.dir\day25\day25.cpp.obj /FdCMakeFiles\aoc2020.dir\ /FS -c C:\Users\alojz\CLionProjects\aoc2020\day25\day25.cpp
+<<
+
+CMakeFiles\aoc2020.dir\day25\day25.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/aoc2020.dir/day25/day25.cpp.i"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1425~1.286\bin\Hostx86\x86\cl.exe > CMakeFiles\aoc2020.dir\day25\day25.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\alojz\CLionProjects\aoc2020\day25\day25.cpp
+<<
+
+CMakeFiles\aoc2020.dir\day25\day25.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/aoc2020.dir/day25/day25.cpp.s"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1425~1.286\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\aoc2020.dir\day25\day25.cpp.s /c C:\Users\alojz\CLionProjects\aoc2020\day25\day25.cpp
+<<
+
 # Object files for target aoc2020
 aoc2020_OBJECTS = \
 "CMakeFiles\aoc2020.dir\main.cpp.obj" \
@@ -202,7 +563,26 @@ aoc2020_OBJECTS = \
 "CMakeFiles\aoc2020.dir\day3\day3.cpp.obj" \
 "CMakeFiles\aoc2020.dir\day4\day4.cpp.obj" \
 "CMakeFiles\aoc2020.dir\day5\day5.cpp.obj" \
-"CMakeFiles\aoc2020.dir\day6\day6.cpp.obj"
+"CMakeFiles\aoc2020.dir\day6\day6.cpp.obj" \
+"CMakeFiles\aoc2020.dir\day7\day7.cpp.obj" \
+"CMakeFiles\aoc2020.dir\day8\day8.cpp.obj" \
+"CMakeFiles\aoc2020.dir\day9\day9.cpp.obj" \
+"CMakeFiles\aoc2020.dir\day10\day10.cpp.obj" \
+"CMakeFiles\aoc2020.dir\day11\day11.cpp.obj" \
+"CMakeFiles\aoc2020.dir\day12\day12.cpp.obj" \
+"CMakeFiles\aoc2020.dir\day13\day13.cpp.obj" \
+"CMakeFiles\aoc2020.dir\day14\day14.cpp.obj" \
+"CMakeFiles\aoc2020.dir\day15\day15.cpp.obj" \
+"CMakeFiles\aoc2020.dir\day16\day16.cpp.obj" \
+"CMakeFiles\aoc2020.dir\day17\day17.cpp.obj" \
+"CMakeFiles\aoc2020.dir\day18\day18.cpp.obj" \
+"CMakeFiles\aoc2020.dir\day19\day19.cpp.obj" \
+"CMakeFiles\aoc2020.dir\day20\day20.cpp.obj" \
+"CMakeFiles\aoc2020.dir\day21\day21.cpp.obj" \
+"CMakeFiles\aoc2020.dir\day22\day21.cpp.obj" \
+"CMakeFiles\aoc2020.dir\day23\day23.cpp.obj" \
+"CMakeFiles\aoc2020.dir\day24\day24.cpp.obj" \
+"CMakeFiles\aoc2020.dir\day25\day25.cpp.obj"
 
 # External object files for target aoc2020
 aoc2020_EXTERNAL_OBJECTS =
@@ -214,9 +594,28 @@ aoc2020.exe: CMakeFiles\aoc2020.dir\day3\day3.cpp.obj
 aoc2020.exe: CMakeFiles\aoc2020.dir\day4\day4.cpp.obj
 aoc2020.exe: CMakeFiles\aoc2020.dir\day5\day5.cpp.obj
 aoc2020.exe: CMakeFiles\aoc2020.dir\day6\day6.cpp.obj
+aoc2020.exe: CMakeFiles\aoc2020.dir\day7\day7.cpp.obj
+aoc2020.exe: CMakeFiles\aoc2020.dir\day8\day8.cpp.obj
+aoc2020.exe: CMakeFiles\aoc2020.dir\day9\day9.cpp.obj
+aoc2020.exe: CMakeFiles\aoc2020.dir\day10\day10.cpp.obj
+aoc2020.exe: CMakeFiles\aoc2020.dir\day11\day11.cpp.obj
+aoc2020.exe: CMakeFiles\aoc2020.dir\day12\day12.cpp.obj
+aoc2020.exe: CMakeFiles\aoc2020.dir\day13\day13.cpp.obj
+aoc2020.exe: CMakeFiles\aoc2020.dir\day14\day14.cpp.obj
+aoc2020.exe: CMakeFiles\aoc2020.dir\day15\day15.cpp.obj
+aoc2020.exe: CMakeFiles\aoc2020.dir\day16\day16.cpp.obj
+aoc2020.exe: CMakeFiles\aoc2020.dir\day17\day17.cpp.obj
+aoc2020.exe: CMakeFiles\aoc2020.dir\day18\day18.cpp.obj
+aoc2020.exe: CMakeFiles\aoc2020.dir\day19\day19.cpp.obj
+aoc2020.exe: CMakeFiles\aoc2020.dir\day20\day20.cpp.obj
+aoc2020.exe: CMakeFiles\aoc2020.dir\day21\day21.cpp.obj
+aoc2020.exe: CMakeFiles\aoc2020.dir\day22\day21.cpp.obj
+aoc2020.exe: CMakeFiles\aoc2020.dir\day23\day23.cpp.obj
+aoc2020.exe: CMakeFiles\aoc2020.dir\day24\day24.cpp.obj
+aoc2020.exe: CMakeFiles\aoc2020.dir\day25\day25.cpp.obj
 aoc2020.exe: CMakeFiles\aoc2020.dir\build.make
 aoc2020.exe: CMakeFiles\aoc2020.dir\objects1.rsp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\alojz\CLionProjects\aoc2020\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable aoc2020.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\alojz\CLionProjects\aoc2020\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Linking CXX executable aoc2020.exe"
 	"C:\Program Files\JetBrains\CLion 2020.1.2\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\aoc2020.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1425~1.286\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\aoc2020.dir\objects1.rsp @<<
  /out:aoc2020.exe /implib:aoc2020.lib /pdb:C:\Users\alojz\CLionProjects\aoc2020\cmake-build-debug\aoc2020.pdb /version:0.0  /machine:X86 /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 
 <<
